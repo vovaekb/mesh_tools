@@ -1,6 +1,6 @@
 # mesh_tools
 
-Tools for working with 3D meshes.
+Testing programs for exploring 3D mesh libraries, texture recovery and hole filling on 3D model.
 
 Stack:
 - C++
